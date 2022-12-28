@@ -1,0 +1,3 @@
+[submodule "hedge-web"]
+	path = hedge-web
+	url = https://github.com/magnuschase/hedge-web.git
